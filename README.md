@@ -41,8 +41,8 @@ https://colab.research.google.com/drive/15sN_f8XeEjNM6tbkZfhorfRtn7Z9fewl?usp=sh
 
 Reference Links
 ---------------
-https://www.kaggle.com/rtatman/santa-barbara-corpus-of-spoken-american-english
-https://www.ibm.com/in-en/cloud/watson-speech-to-text
-https://huggingface.co/transformers/model_doc/xlnet.html
-https://towardsdatascience.com/text-normalization-7ecc8e084e31
-https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
+1. https://www.kaggle.com/rtatman/santa-barbara-corpus-of-spoken-american-english
+2. https://www.ibm.com/in-en/cloud/watson-speech-to-text
+3. https://huggingface.co/transformers/model_doc/xlnet.html
+4. https://towardsdatascience.com/text-normalization-7ecc8e084e31
+5. https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
